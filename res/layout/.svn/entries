@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.150.13:8081/svn/yue_x"
+   name=""
+   revision="2300"
+   last-author="guoyunfeng"
+   url="http://192.168.150.13:8081/svn/yue_x/android/trunk/ZT-GAME-app/res/layout"
+   uuid="9254340d-17d3-7f45-b21a-f3dc9b62d18d"
+   committed-rev="2233"
+   kind="dir"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="ac_image_gallery.xml"
+   checksum="1d67092e3add9cb700b8fae9f488b815"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="ac_image_grid.xml"
+   checksum="d0df770cc643531a3f439a658abe3365"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="ac_image_list.xml"
+   checksum="1249652ce278d1d08d5fa0f172b95fbc"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="ac_image_pager.xml"
+   checksum="96a42e2952703fa853a9ba9f268a97b3"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="activity_main.xml"
+   checksum="cedde4351bfc60eb562ef252e099ce17"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="activity_samples.xml"
+   checksum="8af541d78dfb70afe3299c8531f2035d"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="adapter_test.xml"
+   checksum="d35cee0398403d8f6c51d55199ff53cb"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="arc_menu.xml"
+   checksum="3110267ee446bf59aa706b6f5c6d76d1"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="caoricorn.xml"
+   checksum="b761712c5ac050dd414b28a7d914ffee"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="dialog.xml"
+   checksum="798e19f9db037a1fa90b1f61cbe96f6f"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="dialog_customized.xml"
+   checksum="5d471163fbeedc02878e2a8dd3bacedd"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="fragment_main.xml"
+   checksum="aeee86b290daaf0c6f9189c634d7d2a7"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="image_downloader_widget.xml"
+   checksum="0ea0aeb358c8e0a10bea1b73662f3ee8"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="item_gallery_image.xml"
+   checksum="06e81ec5456091b3d8224a605dd6cc5b"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="item_grid_image.xml"
+   checksum="58c8ccefe224074aa2306ee678ce8d69"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="item_list_image.xml"
+   checksum="7e4e34853e031879ebbc976ba69a1b78"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="item_pager_image.xml"
+   checksum="816fd7649039a40051bc7ee3d85dff52"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="list_footer.xml"
+   checksum="9446247614f1a2c9ab50d61d80f0c026"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="list_header.xml"
+   checksum="db8a12a9343adee62b11fec2657e304a"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="month.xml"
+   checksum="c24fc4d161a56d99867fe55c9dcb10b6"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="numberprogress_test.xml"
+   checksum="83d1189464b685707bafdb97fc3d9c7c"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="pull_to_refresh_header.xml"
+   checksum="55b5ed8b7e78d3e672c71b105a6415c5"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="pullfresh_test.xml"
+   checksum="59deb8ef121d3bf856f2957ffbc69439"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="ray_menu.xml"
+   checksum="14aa891fce7c66e1fb427cf65cfc9a95"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="sample_calendar_picker.xml"
+   checksum="42636e85d27588d1a6e6d440b4732fec"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="sticky_header.xml"
+   checksum="81d26afd9d1d698895c918ed0dab08d1"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="stickylisttestmain.xml"
+   checksum="3cd24fdcb0d2ebc6bf974634db457dbd"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="test_list_item_layout.xml"
+   checksum="cf94efde7674f7e934365f04f0bd78d0"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="week.xml"
+   checksum="01657f7bc82700d714174aa270c84240"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+</wc-entries>

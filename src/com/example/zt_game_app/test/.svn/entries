@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.150.13:8081/svn/yue_x"
+   name=""
+   revision="2300"
+   last-author="guoyunfeng"
+   url="http://192.168.150.13:8081/svn/yue_x/android/trunk/ZT-GAME-app/src/com/example/zt_game_app/test"
+   uuid="9254340d-17d3-7f45-b21a-f3dc9b62d18d"
+   committed-rev="2233"
+   kind="dir"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="CaoricornTest.java"
+   checksum="1eed10d5008f934191035ad7c2c589ce"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="HttpTest.java"
+   checksum="23bd7d169141c141145122d00862005a"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="ImageGalleryActivity.java"
+   checksum="741d532fec5f513ccd210d4b6d4273d1"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="ImageGridActivity.java"
+   checksum="736ad55cee6ac11e5de1335a5f401ee1"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="ImageListActivity.java"
+   checksum="42d83fd51c58c46b8dd2b409ed1db599"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="ImagePagerActivity.java"
+   checksum="1ae40afb1f4bcbc8e45d185c41d3961c"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="NumberprogressTestActivity.java"
+   checksum="750f9cdac6b14f72e9262c722c7ecc1d"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="PullAdapter.java"
+   checksum="a99c984c5d7b958073dd9e7a0e286ee0"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="PullfreshTest.java"
+   checksum="761652faff6c435bdc57797ebdd97571"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="SampleTimesSquareActivity.java"
+   checksum="9d34eacadffa8366a13af4c80d2ff0a9"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="SamplesActivity.java"
+   checksum="0eff8e990e9377ddccd2a8bd5c087d3a"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="TestActivity.java"
+   checksum="100c623259d94f234777c59673b5e3ba"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+</wc-entries>

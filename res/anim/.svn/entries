@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.150.13:8081/svn/yue_x"
+   name=""
+   revision="2300"
+   last-author="guoyunfeng"
+   url="http://192.168.150.13:8081/svn/yue_x/android/trunk/ZT-GAME-app/res/anim"
+   uuid="9254340d-17d3-7f45-b21a-f3dc9b62d18d"
+   committed-rev="2233"
+   kind="dir"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="list_anim.xml"
+   checksum="c032b66ebd08e1e131f37cfb03a5bb9a"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="navagation_gridview_anim.xml"
+   checksum="5fea5861768b8d90d51bfa48a554ba8a"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="push_bottom_in.xml"
+   checksum="d36a6c546a35f2810328b0d54fa64026"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="push_bottom_in2.xml"
+   checksum="e301a2ef446c3fc3e758be16785733af"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="push_bottom_out.xml"
+   checksum="a01da0da3fb3aac009cb5f75ef6af30f"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+</wc-entries>

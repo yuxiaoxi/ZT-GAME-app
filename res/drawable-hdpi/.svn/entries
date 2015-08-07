@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.150.13:8081/svn/yue_x"
+   name=""
+   revision="2300"
+   last-author="guoyunfeng"
+   url="http://192.168.150.13:8081/svn/yue_x/android/trunk/ZT-GAME-app/res/drawable-hdpi"
+   uuid="9254340d-17d3-7f45-b21a-f3dc9b62d18d"
+   committed-rev="2233"
+   kind="dir"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="ic_empty.png"
+   checksum="25d8207a890ad5441b3691c115e7f262"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:46.481000Z"/>
+<entry
+   name="ic_error.png"
+   checksum="53952ffe72f14a62fdb1f07c2dfc31c9"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:46.457000Z"/>
+<entry
+   name="ic_launcher.png"
+   checksum="d0cec7c8cda5327b8a17b8980bcc88eb"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:46.417000Z"/>
+<entry
+   name="ic_stub.png"
+   checksum="42099d6687975aabd08296efe8639869"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:46.467000Z"/>
+<entry
+   name="pulltorefresh_down_arrow.png"
+   checksum="f0a1a3dbb40fca8022e041d60ddab285"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:46.445000Z"/>
+<entry
+   name="pulltorefresh_up_arrow.png"
+   checksum="f0c4abfac9e934fde74a5868fbf5e139"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:46.431000Z"/>
+<entry
+   name="ssdk_oks_ptr_ptr.png"
+   checksum="de394eccf0448756331e34191e1be6ac"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:46.405000Z"/>
+</wc-entries>

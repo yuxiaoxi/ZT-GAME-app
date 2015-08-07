@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.150.13:8081/svn/yue_x"
+   name=""
+   revision="2300"
+   last-author="guoyunfeng"
+   url="http://192.168.150.13:8081/svn/yue_x/android/trunk/ZT-GAME-app/res/values"
+   uuid="9254340d-17d3-7f45-b21a-f3dc9b62d18d"
+   committed-rev="2233"
+   kind="dir"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="arrays.xml"
+   checksum="3f8cbbf4eb7438c139567f33e0f1b485"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="attrs.xml"
+   checksum="84a72b22afdb58d692e8f8ee644fa861"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="colors.xml"
+   checksum="6fb73d3230bb60fdef20a479003fa702"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="dimens.xml"
+   checksum="12a62ecdfb9011fb5d71eff5e95a28d4"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="ids.xml"
+   checksum="2ca28f31eed35eff7260da60ef8e8c9e"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="oks_strings.xml"
+   checksum="7b583bf72131b3a0bee38a31f6cfd454"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="ssdk_strings.xml"
+   checksum="1905118a126b16b1d34db4c7e7d8e559"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="strings.xml"
+   checksum="4a47a5550405f5694eabe10545df9cf4"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="styles.xml"
+   checksum="ffa452649d157b8d58e7ab45945d04e9"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+</wc-entries>

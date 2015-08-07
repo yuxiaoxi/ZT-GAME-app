@@ -1,0 +1,163 @@
+<resources>
+
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+	<style name="ProgressBarStyle" parent="@android:style/Widget.ProgressBar.Horizontal"/>
+	<style name="NumberProgressBar_Default">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+
+        <item name="max">100</item>
+        <item name="progress">0</item>
+
+        <item name="progress_unreached_color">#CCCCCC</item>
+        <item name="progress_reached_color">#3498DB</item>
+
+        <item name="progress_text_size">10sp</item>
+        <item name="progress_text_color">#3498DB</item>
+
+        <item name="progress_reached_bar_height">1.5dp</item>
+        <item name="progress_unreached_bar_height">0.75dp</item>
+    </style>
+
+    <style name="NumberProgressBar_Passing_Green">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+
+        <item name="max">100</item>
+        <item name="progress">0</item>
+
+        <item name="progress_unreached_color">#CCCCCC</item>
+        <item name="progress_reached_color">#70A800</item>
+
+        <item name="progress_text_size">10sp</item>
+        <item name="progress_text_color">#70A800</item>
+
+        <item name="progress_reached_bar_height">1.5dp</item>
+        <item name="progress_unreached_bar_height">0.75dp</item>
+    </style>
+
+    <style name="NumberProgressBar_Beauty_Red">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+
+        <item name="max">100</item>
+        <item name="progress">0</item>
+
+        <item name="progress_unreached_color">#CCCCCC</item>
+        <item name="progress_reached_color">#FF3D7F</item>
+        <item name="progress_text_size">10sp</item>
+        <item name="progress_text_color">#FF3D7F</item>
+
+        <item name="progress_reached_bar_height">1.5dp</item>
+        <item name="progress_unreached_bar_height">0.75dp</item>
+    </style>
+
+    <style name="NumberProgressBar_Warning_Red">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+
+        <item name="max">100</item>
+        <item name="progress">0</item>
+
+        <item name="progress_unreached_color">#CCCCCC</item>
+        <item name="progress_reached_color">#E74C3C</item>
+        <item name="progress_text_size">10sp</item>
+        <item name="progress_text_color">#E74C3C</item>
+
+        <item name="progress_reached_bar_height">1.5dp</item>
+        <item name="progress_unreached_bar_height">0.75dp</item>
+    </style>
+
+    <style name="NumberProgressBar_Relax_Blue">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+
+        <item name="max">100</item>
+        <item name="progress">0</item>
+
+        <item name="progress_unreached_color">#CCCCCC</item>
+        <item name="progress_reached_color">#6DBCDB</item>
+        <item name="progress_text_size">10sp</item>
+        <item name="progress_text_color">#6DBCDB</item>
+
+        <item name="progress_reached_bar_height">1.5dp</item>
+        <item name="progress_unreached_bar_height">0.75dp</item>
+    </style>
+
+    <style name="NumberProgressBar_Grace_Yellow">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+
+        <item name="max">100</item>
+        <item name="progress">0</item>
+
+        <item name="progress_unreached_color">#CCCCCC</item>
+        <item name="progress_reached_color">#FFC73B</item>
+        <item name="progress_text_size">10sp</item>
+        <item name="progress_text_color">#FFC73B</item>
+
+        <item name="progress_reached_bar_height">1.5dp</item>
+        <item name="progress_unreached_bar_height">0.75dp</item>
+    </style>
+
+    <style name="NumberProgressBar_Funny_Orange">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+
+        <item name="max">100</item>
+        <item name="progress">0</item>
+
+        <item name="progress_unreached_color">#CCCCCC</item>
+        <item name="progress_reached_color">#FF530D</item>
+        <item name="progress_text_size">10sp</item>
+        <item name="progress_text_color">#FF530D</item>
+
+        <item name="progress_reached_bar_height">1.5dp</item>
+        <item name="progress_unreached_bar_height">0.75dp</item>
+    </style>
+
+    <style name="NumberProgressBar_Twinkle_Night">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+
+        <item name="max">100</item>
+        <item name="progress">0</item>
+
+        <item name="progress_unreached_color">#CCCCCC</item>
+        <item name="progress_reached_color">#ECF0F1</item>
+        <item name="progress_text_size">10sp</item>
+        <item name="progress_text_color">#ECF0F1</item>
+
+        <item name="progress_reached_bar_height">1.5dp</item>
+        <item name="progress_unreached_bar_height">0.75dp</item>
+    </style>
+    
+    <style name="CalendarTitle">
+    <item name="android:textSize">@dimen/calendar_text_medium</item>
+    <item name="android:textStyle">bold</item>
+  </style>
+
+ <style name="CalendarCell">
+    <item name="android:layout_width">0dp</item>
+    <item name="android:layout_weight">1</item>
+    <item name="android:gravity">center</item>
+    <!-- <item name="android:textAlignment">center</item> -->
+  </style>
+
+  <style name="CalendarCell.DayHeader">
+    <item name="android:textSize">@dimen/calendar_text_small</item>
+  </style>
+
+  <style name="CalendarCell.CalendarDate">
+    <item name="android:textSize">@dimen/calendar_text_medium</item>
+    <item name="android:clickable">true</item>
+    <item name="android:textStyle">bold</item>
+  </style>
+	
+</resources>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.150.13:8081/svn/yue_x"
+   name=""
+   revision="2300"
+   last-author="guoyunfeng"
+   url="http://192.168.150.13:8081/svn/yue_x/android/trunk/ZT-GAME-app/libs"
+   uuid="9254340d-17d3-7f45-b21a-f3dc9b62d18d"
+   committed-rev="2233"
+   kind="dir"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="ShareSDK-Core-2.3.12.jar"
+   checksum="d7c4a13f07ccb6fce96bd917c7468ff1"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:45.562000Z"/>
+<entry
+   name="ShareSDK-QQ-2.3.12.jar"
+   checksum="9bfcb4f89b6054e60130e39de2780814"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:45.782000Z"/>
+<entry
+   name="ShareSDK-QZone-2.3.12.jar"
+   checksum="b563ec99b18791670407e49113f91db2"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:45.656000Z"/>
+<entry
+   name="ShareSDK-ShortMessage-2.3.12.jar"
+   checksum="99c54fd3b0d125e8f8e0a8e34c377495"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:45.855000Z"/>
+<entry
+   name="ShareSDK-SinaWeibo-2.3.12.jar"
+   checksum="10a5cc77c6beade49351d7451ce77028"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:45.769000Z"/>
+<entry
+   name="ShareSDK-TencentWeibo-2.3.12.jar"
+   checksum="20607c2a4e8fd7f3b14de8bd694e3534"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:45.869000Z"/>
+<entry
+   name="ShareSDK-Wechat-2.3.12.jar"
+   checksum="a47d84916bcdb3c81428b0b2ea412485"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:45.613000Z"/>
+<entry
+   name="ShareSDK-Wechat-Core-2.3.12.jar"
+   checksum="caba05a39cd58c2f6b4c783561ff8472"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:45.800000Z"/>
+<entry
+   name="ShareSDK-Wechat-Moments-2.3.12.jar"
+   checksum="1d76a3bf0a0da81fb8b8e7ebc290239f"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:45.624000Z"/>
+<entry
+   name="android-support-v4.jar"
+   checksum="238263fa48fa6e97ef2b7155173e55c9"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:45.741000Z"/>
+<entry
+   name="android-support-v7-appcompat.jar"
+   checksum="c5237c0ff3a1a3731f5f87fdcedf9de8"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:45.844000Z"/>
+<entry
+   name="androidInject_1.3.jar"
+   checksum="edb6a43d67fcaa41f41512714a15e2fd"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:45.639000Z"/>
+<entry
+   name="mframework.jar"
+   checksum="2724474e0015d1aa4aeb63230f50ab43"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:45.536000Z"/>
+<entry
+   name="netroid-1.2.1.jar"
+   checksum="81a6b82369efa36800cf933480cdf04c"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:45.758000Z"/>
+<entry
+   name="universal-image-loader-1.9.2-with-sources.jar"
+   checksum="cea72258422cce9231e0a90d292586de"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:45.603000Z"/>
+</wc-entries>

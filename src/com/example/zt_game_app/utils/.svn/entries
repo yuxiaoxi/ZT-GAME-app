@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.150.13:8081/svn/yue_x"
+   name=""
+   revision="2300"
+   last-author="guoyunfeng"
+   url="http://192.168.150.13:8081/svn/yue_x/android/trunk/ZT-GAME-app/src/com/example/zt_game_app/utils"
+   uuid="9254340d-17d3-7f45-b21a-f3dc9b62d18d"
+   committed-rev="2233"
+   kind="dir"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="caoricorn"
+   kind="dir"/>
+<entry
+   name="gridview"
+   kind="dir"/>
+<entry
+   name="http"
+   kind="dir"/>
+<entry
+   name="https"
+   kind="dir"/>
+<entry
+   name="image_downloader"
+   kind="dir"/>
+<entry
+   name="jsonhelper"
+   kind="dir"/>
+<entry
+   name="megwidget"
+   kind="dir"/>
+<entry
+   name="numberprogress"
+   kind="dir"/>
+<entry
+   name="stickylistheaders"
+   kind="dir"/>
+<entry
+   name="svgandroid"
+   kind="dir"/>
+<entry
+   name="timeview"
+   kind="dir"/>
+<entry
+   name="wxapi"
+   kind="dir"/>
+</wc-entries>

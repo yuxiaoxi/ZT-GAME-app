@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<com.example.zt_game_app.utils.timeview.CalendarRowView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    >
+  <com.example.zt_game_app.utils.timeview.CalendarCellView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      style="@style/CalendarCell.CalendarDate"
+      />
+  <com.example.zt_game_app.utils.timeview.CalendarCellView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      style="@style/CalendarCell.CalendarDate"
+      />
+  <com.example.zt_game_app.utils.timeview.CalendarCellView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      style="@style/CalendarCell.CalendarDate"
+      />
+  <com.example.zt_game_app.utils.timeview.CalendarCellView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      style="@style/CalendarCell.CalendarDate"
+      />
+  <com.example.zt_game_app.utils.timeview.CalendarCellView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      style="@style/CalendarCell.CalendarDate"
+      />
+  <com.example.zt_game_app.utils.timeview.CalendarCellView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      style="@style/CalendarCell.CalendarDate"
+      />
+  <com.example.zt_game_app.utils.timeview.CalendarCellView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      style="@style/CalendarCell.CalendarDate"
+      />
+</com.example.zt_game_app.utils.timeview.CalendarRowView>

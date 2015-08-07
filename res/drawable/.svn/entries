@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.150.13:8081/svn/yue_x"
+   name=""
+   revision="2300"
+   last-author="guoyunfeng"
+   url="http://192.168.150.13:8081/svn/yue_x/android/trunk/ZT-GAME-app/res/drawable"
+   uuid="9254340d-17d3-7f45-b21a-f3dc9b62d18d"
+   committed-rev="2233"
+   kind="dir"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="bg_circle_selected.xml"
+   checksum="1960a2bca622ab745e15fcf2d4de4c8b"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="bg_circle_today.xml"
+   checksum="a29c3b3d0304643378f4dfa352d79266"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="calendar_bg_selector.xml"
+   checksum="ca919365dea15cd5a91c780024e259f5"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="composer_button.xml"
+   checksum="21225a47573a37569beca31a8fcd3263"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="composer_button_normal.png"
+   checksum="67d5552f90650e8dc0d5eec2cf188a93"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:51.149000Z"/>
+<entry
+   name="composer_button_pressed.png"
+   checksum="f07f6aac9880ff4332bba182ea5409f2"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:51.219000Z"/>
+<entry
+   name="composer_camera.png"
+   checksum="02c0cd0b951eeed2dc49a1ad66f9af72"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:51.204000Z"/>
+<entry
+   name="composer_icn_plus.xml"
+   checksum="319c3032c68ebb2c5aa740ea8822bda5"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="composer_icn_plus_normal.png"
+   checksum="d8408f418f241130633103b06da2df90"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:51.160000Z"/>
+<entry
+   name="composer_icn_plus_pressed.png"
+   checksum="a96860632e3f7f74fde3184b81a3cf97"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:51.230000Z"/>
+<entry
+   name="composer_music.png"
+   checksum="177481d153ee05740273189c223fb751"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:51.116000Z"/>
+<entry
+   name="composer_place.png"
+   checksum="8c1c45dc3c686b50ef4573cbe1b5f5c4"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:51.176000Z"/>
+<entry
+   name="composer_sleep.png"
+   checksum="e8cd435ea34aebfb559b4bf15c5dc1c1"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:51.254000Z"/>
+<entry
+   name="composer_thought.png"
+   checksum="817d9ab4d1640d7b34173556c1d5ce88"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:51.137000Z"/>
+<entry
+   name="composer_with.png"
+   checksum="d5f8c0b43f2774a2d2a0904872bee6f5"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:51.265000Z"/>
+<entry
+   name="custom_calendar_bg_selector.xml"
+   checksum="64a1594bfc9d2c16400dc428e9f65671"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+</wc-entries>

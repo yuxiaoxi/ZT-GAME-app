@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <attr name="fromDegrees" format="float|reference" />
+    <attr name="toDegrees" format="float|reference" />
+    <attr name="childSize" format="dimension|reference" />
+
+    <declare-styleable name="ArcLayout">
+        <attr name="fromDegrees" />
+        <attr name="toDegrees" />
+        <attr name="childSize" />
+    </declare-styleable>
+    <declare-styleable name="ArcMenu">
+        <attr name="fromDegrees" />
+        <attr name="toDegrees" />
+        <attr name="childSize" />
+    </declare-styleable>
+    <declare-styleable name="RayLayout">
+        <attr name="leftHolderWidth" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="CameraPreference">
+        <attr name="title" format="string" />
+    </declare-styleable>
+    <declare-styleable name="ListPreference">
+        <attr name="key" format="string" />
+        <attr name="defaultValue" format="string" />
+        <attr name="entryValues" format="reference" />
+        <attr name="entries" format="reference" />
+    </declare-styleable>
+
+    <attr name="direction">
+
+        <!-- Vertical widget. -->
+        <enum name="vertical" value="0" />
+        <!-- Horizontal widget. -->
+        <enum name="horizontal" value="1" />
+    </attr>
+
+    <skip />
+
+    <!--
+         Workspace specific attributes. These attributes are used to customize 
+         the workspace in XML files.
+    -->
+    <declare-styleable name="Workspace">
+
+        <!-- The first screen the workspace should display. -->
+        <attr name="defaultScreen" format="integer" />
+    </declare-styleable>
+
+    <!--
+         CellLayout specific attributes. These attributes are used to customize
+         a CellLayout view in XML files.
+    -->
+    <declare-styleable name="CellLayout">
+
+        <!-- The width of a single cell -->
+        <attr name="cellWidth" format="dimension" />
+        <!-- The height of a single cell -->
+        <attr name="cellHeight" format="dimension" />
+        <!-- Padding to apply at the start of the long axis -->
+        <attr name="longAxisStartPadding" format="dimension" />
+        <!-- Padding to apply at the end of the long axis -->
+        <attr name="longAxisEndPadding" format="dimension" />
+        <!-- Padding to apply at the start of the short axis -->
+        <attr name="shortAxisStartPadding" format="dimension" />
+        <!-- Padding to apply at the end of the short axis -->
+        <attr name="shortAxisEndPadding" format="dimension" />
+        <!-- Number of cells on the short axis of the CellLayout -->
+        <attr name="shortAxisCells" format="integer" />
+        <!-- Number of cells on the long axis of the CellLayout -->
+        <attr name="longAxisCells" format="integer" />
+    </declare-styleable>
+
+    <!--
+         DeleteZone specific attributes. These attributes are used to customize
+         a DeleteZone view in XML files.
+    -->
+    <declare-styleable name="DeleteZone">
+
+        <!-- Orientation of the delete zone. -->
+        <attr name="direction" />
+    </declare-styleable>
+
+    <!--
+         HandleView specific attributes. These attributes are used to customize
+         a HandleView view in XML files.
+    -->
+    <declare-styleable name="HandleView">
+
+        <!-- Orientation of the handle. -->
+        <attr name="direction" />
+    </declare-styleable>
+
+    <!-- XML attributes used by default_workspace.xml -->
+    <declare-styleable name="ClippedImageView">
+        <attr name="ignoreZone" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="Panel">
+
+        <!-- Defines panel animation duration in ms. -->
+        <attr name="animationDuration" format="integer" />
+        <!-- Defines panel position on the screen. -->
+        <attr name="position">
+
+            <!-- Panel placed at top of the screen. -->
+            <enum name="top" value="0" />
+            <!-- Panel placed at bottom of the screen. -->
+            <enum name="bottom" value="1" />
+            <!-- Panel placed at left of the screen. -->
+            <enum name="left" value="2" />
+            <!-- Panel placed at right of the screen. -->
+            <enum name="right" value="3" />
+        </attr>
+        <!-- Identifier for the child that represents the panel's handle. -->
+        <attr name="handle" format="reference" />
+        <!-- Identifier for the child that represents the panel's content. -->
+        <attr name="content" format="reference" />
+        <!-- Defines if flying gesture forces linear interpolator in animation. -->
+        <attr name="linearFlying" format="boolean" />
+        <!-- Defines size relative to parent (must be in form: nn%p). -->
+        <attr name="weight" format="fraction" />
+        <!-- Defines opened handle (drawable/color). -->
+        <attr name="openedHandle" format="reference|color" />
+        <!-- Defines closed handle (drawable/color). -->
+        <attr name="closedHandle" format="reference|color" />
+    </declare-styleable>
+    <declare-styleable name="ViewFlow">
+        <attr name="sidebuffer" format="integer" />
+    </declare-styleable>
+    <declare-styleable name="CircleFlowIndicator">
+        <attr name="activeColor" format="color" />
+        <attr name="inactiveColor" format="color" />
+        <attr name="radius" format="dimension" />
+        <attr name="centered" format="boolean" />
+        <attr name="fadeOut" format="integer" />
+        <attr name="inactiveType">
+            <flag name="stroke" value="0" />
+            <flag name="fill" value="1" />
+        </attr>
+        <attr name="activeType">
+            <flag name="stroke" value="0" />
+            <flag name="fill" value="1" />
+        </attr>
+        <attr name="circleSeparation" format="dimension" />
+        <attr name="activeRadius" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="Gallery1">
+        <attr name="android:galleryItemBackground" />
+    </declare-styleable>
+    <declare-styleable name="PullToRefresh">
+        <attr name="adapterViewBackground" format="reference|color" />
+        <attr name="headerBackground" format="reference|color" />
+        <attr name="headerTextColor" format="color" />
+        <attr name="model">
+            <flag name="pullDownFromTop" value="0x1" />
+            <flag name="pullUpFromBottom" value="0x2" />
+            <flag name="both" value="0x3" />
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="StaggeredGridView">
+        <attr name="drawSelectorOnTop" format="boolean" />
+        <attr name="numColumns" format="integer" />
+        <attr name="itemMargin" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="CustomShapeImageView">
+        <attr name="shape" format="integer">
+            <enum name="circle" value="1" />
+            <enum name="rectangle" value="2" />
+            <enum name="svg" value="3" />
+        </attr>
+        <attr name="svg_raw_resource" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="StickyListHeadersListView">
+
+        <!-- Android attributes -->
+        <attr name="android:clipToPadding" />
+        <attr name="android:padding" />
+        <attr name="android:paddingLeft" />
+        <attr name="android:paddingTop" />
+        <attr name="android:paddingRight" />
+        <attr name="android:paddingBottom" />
+
+        <!-- ListView attributes -->
+        <attr name="android:fadingEdgeLength" />
+        <attr name="android:requiresFadingEdge" />
+        <attr name="android:cacheColorHint" />
+        <attr name="android:choiceMode" />
+        <attr name="android:drawSelectorOnTop" />
+        <attr name="android:fastScrollEnabled" />
+        <attr name="android:listSelector" />
+        <attr name="android:scrollingCache" />
+        <attr name="android:scrollbarStyle" />
+        <attr name="android:divider" />
+        <attr name="android:dividerHeight" />
+
+        <!-- StickyListHeaders attributes -->
+        <attr name="hasStickyHeaders" format="boolean" />
+        <attr name="isDrawingListUnderStickyHeader" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="NumberProgressBar">
+        <attr name="progress" format="integer" />
+        <attr name="max" format="integer" />
+        <attr name="progress_unreached_color" format="color" />
+        <attr name="progress_reached_color" format="color" />
+        <attr name="progress_reached_bar_height" format="dimension" />
+        <attr name="progress_unreached_bar_height" format="dimension" />
+        <attr name="progress_text_size" format="dimension" />
+        <attr name="progress_text_color" format="color" />
+        <attr name="progress_text_offset" format="dimension" />
+        <attr name="progress_text_visibility" format="enum">
+            <enum name="visible" value="0" />
+            <enum name="invisible" value="1" />
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="Themes">
+        <attr name="numberProgressBarStyle" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="CalendarPickerView">
+        <attr name="android:background" />
+        <attr name="dividerColor" format="color" />
+        <attr name="dayBackground" format="reference" />
+        <attr name="dayTextColor" format="color" />
+        <attr name="titleTextColor" format="color" />
+        <attr name="headerTextColor_time" format="color" />
+    </declare-styleable>
+    <declare-styleable name="calendar_cell">
+        <attr name="state_selectable" format="boolean" />
+        <attr name="state_current_month" format="boolean" />
+        <attr name="state_today" format="boolean" />
+        <attr name="state_range_first" format="boolean" />
+        <attr name="state_range_middle" format="boolean" />
+        <attr name="state_range_last" format="boolean" />
+        <attr name="state_highlighted" format="boolean" />
+    </declare-styleable>
+    
+    <declare-styleable name="DiscrollView_LayoutParams">
+        <attr name="discrollve_alpha" format="boolean"/>
+        <attr name="discrollve_scaleX" format="boolean"/>
+        <attr name="discrollve_scaleY" format="boolean"/>
+        <attr name="discrollve_threshold" format="float"/>
+        <attr name="discrollve_fromBgColor" format="color"/>
+        <attr name="discrollve_toBgColor" format="color"/>
+        <attr name="discrollve_translation"/>
+    </declare-styleable>
+
+    <attr name="discrollve_translation">
+        <flag name="fromTop" value="0x01" />
+        <flag name="fromBottom" value="0x02" />
+        <flag name="fromLeft" value="0x04" />
+        <flag name="fromRight" value="0x08" />
+    </attr>
+    
+
+</resources>

@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.150.13:8081/svn/yue_x"
+   name=""
+   revision="2300"
+   last-author="guoyunfeng"
+   url="http://192.168.150.13:8081/svn/yue_x/android/trunk/ZT-GAME-app/res/drawable-xhdpi"
+   uuid="9254340d-17d3-7f45-b21a-f3dc9b62d18d"
+   committed-rev="2233"
+   kind="dir"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="auth_follow_cb_chd.png"
+   checksum="cd245019de0691480343f1e308af1b3d"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:48.008000Z"/>
+<entry
+   name="auth_follow_cb_unc.png"
+   checksum="0f4bbb6c6dcaef199b8507e68ac27fdf"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:48.207000Z"/>
+<entry
+   name="auth_title_back.png"
+   checksum="c48ad9e22c98a31e64c41d324063a8bc"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:47.836000Z"/>
+<entry
+   name="btn_back_nor.9.png"
+   checksum="b1696f98f2eee87e4388c9fb91cf2a64"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:48.167000Z"/>
+<entry
+   name="btn_cancel_back.9.png"
+   checksum="fc63c745cd0868abb09ec5a651320296"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:48.083000Z"/>
+<entry
+   name="btn_red.png"
+   checksum="3027889a17f90bda8db5dbc6f9424ddd"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:48.070000Z"/>
+<entry
+   name="edittext_back.9.png"
+   checksum="3e69887be2d05249a1dd6e5acd06f04f"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:47.815000Z"/>
+<entry
+   name="gray_point.png"
+   checksum="50ff2ff8a8070a74443881620d20d324"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:48.459000Z"/>
+<entry
+   name="ic_launcher.png"
+   checksum="c8512e924b6c291b04015e15e90e9768"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:47.753000Z"/>
+<entry
+   name="img_cancel.png"
+   checksum="46739834f83f12b4076d1da75c725a66"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:47.826000Z"/>
+<entry
+   name="logo_douban.png"
+   checksum="bf8de60022c0ede0ebf0ff0a1a2f9010"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:47.903000Z"/>
+<entry
+   name="logo_dropbox.png"
+   checksum="640012d8ccce2ef1d0c08c27bf5854d4"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:48.235000Z"/>
+<entry
+   name="logo_email.png"
+   checksum="c067e4ad0396821c17d122cd62a5ef4c"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:48.045000Z"/>
+<entry
+   name="logo_evernote.png"
+   checksum="2d685cc4a981eda4a3b53ede5d0a7bee"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:48.426000Z"/>
+<entry
+   name="logo_facebook.png"
+   checksum="a497716c6f85b31947bddc754e1007fa"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:47.914000Z"/>
+<entry
+   name="logo_flickr.png"
+   checksum="9dcaf3ca9f524f7e6f61fab322d24d42"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:47.926000Z"/>
+<entry
+   name="logo_foursquare.png"
+   checksum="0c2f13cfb90127f4fcc7ec730cb620dd"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:47.766000Z"/>
+<entry
+   name="logo_googleplus.png"
+   checksum="8f679b8e37916e670ca1487fd0d82387"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:48.272000Z"/>
+<entry
+   name="logo_instagram.png"
+   checksum="e5068bfe80905ab3a03b31bda1cb9237"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:47.997000Z"/>
+<entry
+   name="logo_kaixin.png"
+   checksum="c73e9539bad5e536c1d3a5a61b94a82c"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:48.337000Z"/>
+<entry
+   name="logo_linkedin.png"
+   checksum="bf7cdc838e5a6d4a45de728f0333a775"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:48.058000Z"/>
+<entry
+   name="logo_mingdao.png"
+   checksum="edab7a3652fad0577ac196579c7fccad"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:47.961000Z"/>
+<entry
+   name="logo_neteasemicroblog.png"
+   checksum="63be078a00d9afd26b7059e2479b5827"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:48.313000Z"/>
+<entry
+   name="logo_pinterest.png"
+   checksum="16986814c0e6024e388c886b8cdcf11a"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:48.222000Z"/>
+<entry
+   name="logo_qq.png"
+   checksum="d9a98aab41903516dc0f406081764f9a"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:47.984000Z"/>
+<entry
+   name="logo_qzone.png"
+   checksum="3f0ccfc467aa0f52f1ccb1cc2403568f"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:47.780000Z"/>
+<entry
+   name="logo_renren.png"
+   checksum="12c3bdf2e83db558fbd8a8ac79a12990"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:48.448000Z"/>
+<entry
+   name="logo_shortmessage.png"
+   checksum="917b8e3b50c940992488b7cd5c4ed529"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:47.847000Z"/>
+<entry
+   name="logo_sinaweibo.png"
+   checksum="8d2cedf4a5deb6b05bb609b57fbfe4b0"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:48.286000Z"/>
+<entry
+   name="logo_sohumicroblog.png"
+   checksum="b6463202e9b8492cb8b1f237586b4fc7"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:47.949000Z"/>
+<entry
+   name="logo_sohusuishenkan.png"
+   checksum="66b48286c1b5389f8b6c1f61fbd30b31"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:47.880000Z"/>
+<entry
+   name="logo_tencentweibo.png"
+   checksum="2c85ffba9decc3134666d0bbce0c7948"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:48.033000Z"/>
+<entry
+   name="logo_tumblr.png"
+   checksum="f3e0263426bb073864d7f0949b2ad80a"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:47.859000Z"/>
+<entry
+   name="logo_twitter.png"
+   checksum="ee930193c8b21772b5359381c4baa958"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:48.099000Z"/>
+<entry
+   name="logo_vkontakte.png"
+   checksum="df15e0bba0a09b80a7f32dd4968784aa"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:48.137000Z"/>
+<entry
+   name="logo_wechat.png"
+   checksum="077af134df764b34884976842096aaf1"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:48.194000Z"/>
+<entry
+   name="logo_wechatfavorite.png"
+   checksum="6934863b6d430314cc223c1d9221c0e3"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:47.937000Z"/>
+<entry
+   name="logo_wechatmoments.png"
+   checksum="2211249066efd4501a7189b28bb81663"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:48.260000Z"/>
+<entry
+   name="logo_yixin.png"
+   checksum="2f701d0a57fbbce9756885359f366ec9"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:47.803000Z"/>
+<entry
+   name="logo_yixinmoments.png"
+   checksum="da9d0d04659e585a8f7de3f34dcf349b"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:48.111000Z"/>
+<entry
+   name="logo_youdao.png"
+   checksum="ff5474fff7749f7a61293564029fc54a"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:47.791000Z"/>
+<entry
+   name="pin.png"
+   checksum="bad611debec6e43b608e0b5843fdd858"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:48.153000Z"/>
+<entry
+   name="sample_1.png"
+   checksum="d0a64d1f7915b985100ffbdc839e9180"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:48.299000Z"/>
+<entry
+   name="sample_2.png"
+   checksum="0fd89101a2c19e5b345c96eb3491d4b8"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:48.325000Z"/>
+<entry
+   name="sample_3.png"
+   checksum="acc8d5275cf4a8273081ac4c02301b2f"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:48.370000Z"/>
+<entry
+   name="sample_4.png"
+   checksum="8c80f52360ad704f941207bed338379e"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:48.386000Z"/>
+<entry
+   name="sample_5.png"
+   checksum="b16f3e0de1d3761f788e8bc7feee7a96"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:48.400000Z"/>
+<entry
+   name="sample_6.png"
+   checksum="b70871512383ed03b99dcae61c10fd23"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:48.414000Z"/>
+<entry
+   name="share_vp_back.9.png"
+   checksum="e396ee0485574069a7e36797c4d4b468"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:48.246000Z"/>
+<entry
+   name="ssdk_auth_title_back.png"
+   checksum="a6ea6ed682070676a2ff7f16d54d8d71"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:48.019000Z"/>
+<entry
+   name="ssdk_back_arr.png"
+   checksum="12d11fddfabcae2eab08243b08b8c9f5"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:47.890000Z"/>
+<entry
+   name="ssdk_logo.png"
+   checksum="61e86c48697c01ed7dbf078ccb107603"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:48.124000Z"/>
+<entry
+   name="ssdk_oks_shake_to_share_back.xml"
+   checksum="67da2b16e8d70eab2fab8029062d5bf4"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="ssdk_oks_yaoyiyao.png"
+   checksum="67ccbd246592eebffd9b2134c0d8e3c6"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:48.353000Z"/>
+<entry
+   name="ssdk_title_div.png"
+   checksum="dc0c2a913a9c2ceaa455db68a488eb8b"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:48.436000Z"/>
+<entry
+   name="title_back.png"
+   checksum="c48ad9e22c98a31e64c41d324063a8bc"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:47.971000Z"/>
+<entry
+   name="title_shadow.png"
+   checksum="a8dc9f236a37292193d99f473ce53095"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:47.869000Z"/>
+<entry
+   name="white_point.png"
+   checksum="dbc1792bb69ed516e25fa0eea84bf5fb"
+   last-author="guoyunfeng"
+   committed-rev="2233"
+   text-time="2014-08-13T09:00:24.600000Z"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   prop-time="2014-08-14T04:17:48.178000Z"/>
+</wc-entries>

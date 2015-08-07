@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://192.168.150.13:8081/svn/yue_x"
+   revision="2300"
+   last-author="guoyunfeng"
+   url="http://192.168.150.13:8081/svn/yue_x/android/trunk/ZT-GAME-app"
+   uuid="9254340d-17d3-7f45-b21a-f3dc9b62d18d"
+   committed-rev="2233"
+   kind="dir"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name=".classpath"
+   checksum="e43b9e994685d1055e421f721677fe94"
+   last-author="guoyunfeng"
+   text-time="2014-08-13T09:00:24.600000Z"
+   committed-rev="2233"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name=".project"
+   checksum="0720964501418fd656518adb4f5fb61c"
+   last-author="guoyunfeng"
+   text-time="2014-08-13T09:00:24.600000Z"
+   committed-rev="2233"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name=".settings"
+   kind="dir"/>
+<entry
+   name="AndroidManifest.xml"
+   checksum="2d0d2c6c2d251a5c5f79a8303bcd3a54"
+   last-author="guoyunfeng"
+   text-time="2014-08-13T09:00:24.600000Z"
+   committed-rev="2233"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="assets"
+   kind="dir"/>
+<entry
+   name="bin"
+   kind="dir"/>
+<entry
+   name="gen"
+   kind="dir"/>
+<entry
+   name="ic_launcher-web.png"
+   last-author="guoyunfeng"
+   text-time="2014-08-13T09:00:24.600000Z"
+   committed-rev="2233"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"
+   checksum="03162f4ee138bcbae36f78b1d25dbd5b"
+   prop-time="2014-08-14T04:17:51.679000Z"/>
+<entry
+   name="libs"
+   kind="dir"/>
+<entry
+   name="lint.xml"
+   checksum="1ce274a186a2afb9f76542702f6ecc4d"
+   last-author="guoyunfeng"
+   text-time="2014-08-13T09:00:24.600000Z"
+   committed-rev="2233"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="proguard-project.txt"
+   checksum="18bfe77c342b4698f1cef19cf8d918e2"
+   last-author="guoyunfeng"
+   text-time="2014-08-13T09:00:24.600000Z"
+   committed-rev="2233"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="project.properties"
+   checksum="00d56406c9d57dec99b70109a312b0e2"
+   last-author="guoyunfeng"
+   text-time="2014-08-13T09:00:24.600000Z"
+   committed-rev="2233"
+   kind="file"
+   committed-date="2014-08-13T09:00:24.600647Z"/>
+<entry
+   name="res"
+   kind="dir"/>
+<entry
+   name="src"
+   kind="dir"/>
+</wc-entries>
